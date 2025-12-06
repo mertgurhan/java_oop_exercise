@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package odev;
+
+/**
+ *
+ * @author mertgurhan
+ */
+public interface Arac {
+     void haraketet();
+    void yakitAl();
+    void bakimYap();
+    void temizle();
+}
