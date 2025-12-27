@@ -1,0 +1,2 @@
+ısparcacigiornek2.Isparcacigiornek2
+ısparcacigiornek2.MyRunnable

@@ -1,0 +1,2 @@
+ısparcacogıornek1.Isparcacogıornek1
+ısparcacogıornek1.MyThread

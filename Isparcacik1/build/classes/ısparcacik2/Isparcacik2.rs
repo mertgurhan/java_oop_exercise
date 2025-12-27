@@ -1,0 +1,2 @@
+ısparcacik2.Isparcacik2
+ısparcacik2.MyRunnable

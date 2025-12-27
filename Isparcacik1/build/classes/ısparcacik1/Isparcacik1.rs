@@ -1,0 +1,3 @@
+ısparcacik1.Isparcacik1
+ısparcacik1.Isparcacik3
+ısparcacik1.MyThread
